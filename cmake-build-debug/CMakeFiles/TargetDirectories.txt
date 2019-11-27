@@ -1,0 +1,3 @@
+/home/shira/Desktop/C/bignumber-ShiraZaltsman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shira/Desktop/C/bignumber-ShiraZaltsman/cmake-build-debug/CMakeFiles/bignumber_ShiraZaltsman.dir
+/home/shira/Desktop/C/bignumber-ShiraZaltsman/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shira/Desktop/C/bignumber-ShiraZaltsman/BigNumber.cpp
+BigNumber.h
+/home/shira/Desktop/C/bignumber-ShiraZaltsman/BigNumber.h
+
+/home/shira/Desktop/C/bignumber-ShiraZaltsman/BigNumber.h
+cmath
+-
+iostream
+-
+string
+-
+vector
+-
+
+/home/shira/Desktop/C/bignumber-ShiraZaltsman/main.cpp
+iostream
+-
+BigNumber.h
+/home/shira/Desktop/C/bignumber-ShiraZaltsman/BigNumber.h
+
